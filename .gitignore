@@ -25,3 +25,9 @@ workflo-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+# Local iex file
+.iex.exs
+
+# Language Server
+.elixir_ls
